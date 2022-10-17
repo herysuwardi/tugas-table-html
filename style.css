@@ -1,0 +1,32 @@
+table, th, td {
+    border: solid 1px;
+    margin-left: 5rem;
+    margin-top: 2rem;
+    width: 30rem;
+    height: 3rem;
+    text-align: center;
+}
+
+h1 {
+    margin-left: 5rem;
+}
+
+.ke1 {
+    background-color: black;
+    color: white;
+}
+
+.ke5 {
+    background-color: green;
+    color: white;
+}
+
+.ke6 {
+    background-color: green;
+    color: white;
+}
+
+.ke16 {
+    background-color: red;
+    color: white;
+}
